@@ -1,0 +1,947 @@
+[
+  {
+    "rank": "#1",
+    "title": "Drama Title 1",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 1..."
+  },
+  {
+    "rank": "#2",
+    "title": "Drama Title 2",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 2..."
+  },
+  {
+    "rank": "#3",
+    "title": "Drama Title 3",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 3..."
+  },
+  {
+    "rank": "#4",
+    "title": "Drama Title 4",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 4..."
+  },
+  {
+    "rank": "#5",
+    "title": "Drama Title 5",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 5..."
+  },
+  {
+    "rank": "#6",
+    "title": "Drama Title 6",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 6..."
+  },
+  {
+    "rank": "#7",
+    "title": "Drama Title 7",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 7..."
+  },
+  {
+    "rank": "#8",
+    "title": "Drama Title 8",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 8..."
+  },
+  {
+    "rank": "#9",
+    "title": "Drama Title 9",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 9..."
+  },
+  {
+    "rank": "#10",
+    "title": "Drama Title 10",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 10..."
+  },
+  {
+    "rank": "#11",
+    "title": "Drama Title 11",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 11..."
+  },
+  {
+    "rank": "#12",
+    "title": "Drama Title 12",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 12..."
+  },
+  {
+    "rank": "#13",
+    "title": "Drama Title 13",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 13..."
+  },
+  {
+    "rank": "#14",
+    "title": "Drama Title 14",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 14..."
+  },
+  {
+    "rank": "#15",
+    "title": "Drama Title 15",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 15..."
+  },
+  {
+    "rank": "#16",
+    "title": "Drama Title 16",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 16..."
+  },
+  {
+    "rank": "#17",
+    "title": "Drama Title 17",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 17..."
+  },
+  {
+    "rank": "#18",
+    "title": "Drama Title 18",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 18..."
+  },
+  {
+    "rank": "#19",
+    "title": "Drama Title 19",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 19..."
+  },
+  {
+    "rank": "#20",
+    "title": "Drama Title 20",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 20..."
+  },
+  {
+    "rank": "#21",
+    "title": "Drama Title 21",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 21..."
+  },
+  {
+    "rank": "#22",
+    "title": "Drama Title 22",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 22..."
+  },
+  {
+    "rank": "#23",
+    "title": "Drama Title 23",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 23..."
+  },
+  {
+    "rank": "#24",
+    "title": "Drama Title 24",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 24..."
+  },
+  {
+    "rank": "#25",
+    "title": "Drama Title 25",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 25..."
+  },
+  {
+    "rank": "#26",
+    "title": "Drama Title 26",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 26..."
+  },
+  {
+    "rank": "#27",
+    "title": "Drama Title 27",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 27..."
+  },
+  {
+    "rank": "#28",
+    "title": "Drama Title 28",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "9.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 28..."
+  },
+  {
+    "rank": "#29",
+    "title": "Drama Title 29",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 29..."
+  },
+  {
+    "rank": "#30",
+    "title": "Drama Title 30",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 30..."
+  },
+  {
+    "rank": "#31",
+    "title": "Drama Title 31",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 31..."
+  },
+  {
+    "rank": "#32",
+    "title": "Drama Title 32",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 32..."
+  },
+  {
+    "rank": "#33",
+    "title": "Drama Title 33",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 33..."
+  },
+  {
+    "rank": "#34",
+    "title": "Drama Title 34",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 34..."
+  },
+  {
+    "rank": "#35",
+    "title": "Drama Title 35",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 35..."
+  },
+  {
+    "rank": "#36",
+    "title": "Drama Title 36",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 36..."
+  },
+  {
+    "rank": "#37",
+    "title": "Drama Title 37",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 37..."
+  },
+  {
+    "rank": "#38",
+    "title": "Drama Title 38",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 38..."
+  },
+  {
+    "rank": "#39",
+    "title": "Drama Title 39",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 39..."
+  },
+  {
+    "rank": "#40",
+    "title": "Drama Title 40",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 40..."
+  },
+  {
+    "rank": "#41",
+    "title": "Drama Title 41",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 41..."
+  },
+  {
+    "rank": "#42",
+    "title": "Drama Title 42",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 42..."
+  },
+  {
+    "rank": "#43",
+    "title": "Drama Title 43",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 43..."
+  },
+  {
+    "rank": "#44",
+    "title": "Drama Title 44",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 44..."
+  },
+  {
+    "rank": "#45",
+    "title": "Drama Title 45",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 45..."
+  },
+  {
+    "rank": "#46",
+    "title": "Drama Title 46",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 46..."
+  },
+  {
+    "rank": "#47",
+    "title": "Drama Title 47",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 47..."
+  },
+  {
+    "rank": "#48",
+    "title": "Drama Title 48",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 48..."
+  },
+  {
+    "rank": "#49",
+    "title": "Drama Title 49",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 49..."
+  },
+  {
+    "rank": "#50",
+    "title": "Drama Title 50",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 50..."
+  },
+  {
+    "rank": "#51",
+    "title": "Drama Title 51",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 51..."
+  },
+  {
+    "rank": "#52",
+    "title": "Drama Title 52",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 52..."
+  },
+  {
+    "rank": "#53",
+    "title": "Drama Title 53",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 53..."
+  },
+  {
+    "rank": "#54",
+    "title": "Drama Title 54",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 54..."
+  },
+  {
+    "rank": "#55",
+    "title": "Drama Title 55",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 55..."
+  },
+  {
+    "rank": "#56",
+    "title": "Drama Title 56",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 56..."
+  },
+  {
+    "rank": "#57",
+    "title": "Drama Title 57",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 57..."
+  },
+  {
+    "rank": "#58",
+    "title": "Drama Title 58",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 58..."
+  },
+  {
+    "rank": "#59",
+    "title": "Drama Title 59",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 59..."
+  },
+  {
+    "rank": "#60",
+    "title": "Drama Title 60",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 60..."
+  },
+  {
+    "rank": "#61",
+    "title": "Drama Title 61",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 61..."
+  },
+  {
+    "rank": "#62",
+    "title": "Drama Title 62",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 62..."
+  },
+  {
+    "rank": "#63",
+    "title": "Drama Title 63",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.3",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 63..."
+  },
+  {
+    "rank": "#64",
+    "title": "Drama Title 64",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 64..."
+  },
+  {
+    "rank": "#65",
+    "title": "Drama Title 65",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 65..."
+  },
+  {
+    "rank": "#66",
+    "title": "Drama Title 66",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 66..."
+  },
+  {
+    "rank": "#67",
+    "title": "Drama Title 67",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 67..."
+  },
+  {
+    "rank": "#68",
+    "title": "Drama Title 68",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.2",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 68..."
+  },
+  {
+    "rank": "#69",
+    "title": "Drama Title 69",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 69..."
+  },
+  {
+    "rank": "#70",
+    "title": "Drama Title 70",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 70..."
+  },
+  {
+    "rank": "#71",
+    "title": "Drama Title 71",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 71..."
+  },
+  {
+    "rank": "#72",
+    "title": "Drama Title 72",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 72..."
+  },
+  {
+    "rank": "#73",
+    "title": "Drama Title 73",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.1",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 73..."
+  },
+  {
+    "rank": "#74",
+    "title": "Drama Title 74",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 74..."
+  },
+  {
+    "rank": "#75",
+    "title": "Drama Title 75",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 75..."
+  },
+  {
+    "rank": "#76",
+    "title": "Drama Title 76",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 76..."
+  },
+  {
+    "rank": "#77",
+    "title": "Drama Title 77",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 77..."
+  },
+  {
+    "rank": "#78",
+    "title": "Drama Title 78",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "8.0",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 78..."
+  },
+  {
+    "rank": "#79",
+    "title": "Drama Title 79",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 79..."
+  },
+  {
+    "rank": "#80",
+    "title": "Drama Title 80",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 80..."
+  },
+  {
+    "rank": "#81",
+    "title": "Drama Title 81",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 81..."
+  },
+  {
+    "rank": "#82",
+    "title": "Drama Title 82",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 82..."
+  },
+  {
+    "rank": "#83",
+    "title": "Drama Title 83",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.9",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 83..."
+  },
+  {
+    "rank": "#84",
+    "title": "Drama Title 84",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 84..."
+  },
+  {
+    "rank": "#85",
+    "title": "Drama Title 85",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 85..."
+  },
+  {
+    "rank": "#86",
+    "title": "Drama Title 86",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 86..."
+  },
+  {
+    "rank": "#87",
+    "title": "Drama Title 87",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 87..."
+  },
+  {
+    "rank": "#88",
+    "title": "Drama Title 88",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.8",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 88..."
+  },
+  {
+    "rank": "#89",
+    "title": "Drama Title 89",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 89..."
+  },
+  {
+    "rank": "#90",
+    "title": "Drama Title 90",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 90..."
+  },
+  {
+    "rank": "#91",
+    "title": "Drama Title 91",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 91..."
+  },
+  {
+    "rank": "#92",
+    "title": "Drama Title 92",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 92..."
+  },
+  {
+    "rank": "#93",
+    "title": "Drama Title 93",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.7",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 93..."
+  },
+  {
+    "rank": "#94",
+    "title": "Drama Title 94",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 94..."
+  },
+  {
+    "rank": "#95",
+    "title": "Drama Title 95",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 95..."
+  },
+  {
+    "rank": "#96",
+    "title": "Drama Title 96",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 96..."
+  },
+  {
+    "rank": "#97",
+    "title": "Drama Title 97",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 97..."
+  },
+  {
+    "rank": "#98",
+    "title": "Drama Title 98",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.6",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 98..."
+  },
+  {
+    "rank": "#99",
+    "title": "Drama Title 99",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 99..."
+  },
+  {
+    "rank": "#100",
+    "title": "Drama Title 100",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 100..."
+  },
+  {
+    "rank": "#101",
+    "title": "Drama Title 101",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 101..."
+  },
+  {
+    "rank": "#102",
+    "title": "Drama Title 102",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 102..."
+  },
+  {
+    "rank": "#103",
+    "title": "Drama Title 103",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.5",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 103..."
+  },
+  {
+    "rank": "#104",
+    "title": "Drama Title 104",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 104..."
+  },
+  {
+    "rank": "#105",
+    "title": "Drama Title 105",
+    "year": "2024,",
+    "eps": "16 episodes",
+    "rating": "7.4",
+    "type": "Korean Drama",
+    "synopsis": "This is the detailed description and plot overview for Drama 105..."
+  }
+]
